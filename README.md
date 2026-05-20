@@ -1,4 +1,4 @@
-###  `detect_drive` (Build 1051)
+###  `detect_drive`
 A  C++ scrip / system utility engineered to scan hardware and identify drive environments dynamically.
 * **Drive Type Detection:** Automatically determines whether connected storage devices are SSDs, NVMEs, or HDDs.
 * **Windows Partition Locator:** Scans connected drives to find exactly which partition hosts the active Windows directory.
